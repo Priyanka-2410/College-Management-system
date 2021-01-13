@@ -1,5 +1,5 @@
 # College-Management-system
-College Management System is an Console Application using C program
+College Management System is an Console Application using C program.
 It has six modules
 1)Transport
 2)Hostel
