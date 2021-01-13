@@ -1,0 +1,4 @@
+Mess fees		: 30,000
+Electricity bill	: 10,000
+Accomodation fees	: 30,000
+Total fees		: 70,000 

@@ -1,0 +1,3 @@
+Mess fees			:30,000
+Accomodation fees		:Free
+Total				:30,000		

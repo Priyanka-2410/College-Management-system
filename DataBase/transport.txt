@@ -1,0 +1,25 @@
+LOCATION	BUSNO	TIMING	FEE
+GANDHIPURAM	6	8.00	20000
+VADAVALLI	F1	7.10	25000
+SUNDRAPURAM	C1	7.45	20000
+GANDHIPURAM	F2	7.15	25000
+SARAVANAMBATTI	c1 	7.40	33000
+KUNIAMUTHUR	8	8.30	12000 
+GANAPATHY	B2	7.05	35000
+KAVUNDAPALAYAM	4 	7.00	30000
+METTUPALAYAM	G1	7.30	25000
+KUNIYAMUTHUR	3	7.50	20000
+KOVAIPUDUR	D1	7.45	15000 
+
+
+
+
+
+Transport details:
+		->We are providing college bus service from various prominent locations all over the city to the college. 
+		->This is despite the location of the college at the heart of the city.
+ 		->We have a fleet of 10 buses to cater to the transportation needs of students and staff.
+		->The bus picks up students outside the city as well as the places near the college and will drop them at the same point each day. 
+		->We ensure the students safety by employing well experienced set of drivers with speed control devices and first aid box in all the buses.
+		->Transport management module will make the process of assigning student & maintaining the trip details of the student and vehicles easier.
+ 		->This module will keep the records of transferring or interchanging of bus routes, list of students using conveyance, list of students of a specific route, name wise and class wise. 

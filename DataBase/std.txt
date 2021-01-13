@@ -1,0 +1,26 @@
+17eucs001 mani   23/3/1999	17eucs001@skcet.ac.in o+ve  cse managementquota kuniamuthur    8524743799 9.0 hosteller 
+17eucs002 manish	26/5/2000   17eucs002@skcet.ac.in b+ve  cse governmentquota kuniamuthur    9080987654 9.5 daysscholar
+17eucs003 manoj 24/10/2000  17eucs003@skcet.ac.in b-ve  cse governmentquota kuniamuthur    9876543876 9.6 daysscholar
+17eucs004 Mathan 21/02/2000  17eucs004@skcet.ac.in ab+ve cse managementquota kuniamuthur    9943111574 9.1 hosteller			    
+17eucs005 inam   22/04/1999  17eucs005@skcet.ac.in o+ve  cse governmentquota kovaipudur     9790189452 8.8 dayscholar
+17euee001 Sathya 14/04/2000	17euee001@skcet.ac.in b+ve  eee managementquota r.s.puram      8220821747 7.8 daysscholar
+17euee002 Siva   23/07/2000	17euee002@skcet.ac.in a+ve  eee governmentquota kavundampalayam7904518140 9.2 hosteller	
+17euee003 Janan  19/10/1999	17euee003@skcet.ac.in o-ve  eee managementquota kuniamuthur    9894965754 9.3 daysscholar
+17euee004 Jeeva  18/11/1999	17euee004@skcet.ac.in b+ve  eee governmentquota kovaipudur     9823416783 8.2 hosteller	
+17euee005 Jeril  01/12/2000	17euee005@skcet.ac.in ab+ve eee managementquota r.s.puram      9854317634 7.9 daysscholar
+17euec001 John   05/05/1999	17euec001@skcet.ac.in o-ve  ece governmentquota kovaipudur     9734615531 7.8 hosteller
+17euec002 Joshua 09/03/2000	17euec002@skcet.ac.in b+ve  ece managementquota kavundampalayam9834526689 9.0 hosteller
+17euec003 Kabi   13/10/2000	17euec003@skcet.ac.in o+ve  ece governmentquota r.s.puram      7892364764 8.9 daysscholar
+17euec004 Kames  02/02/2000	17euec004@skcet.ac.in b+ve  ece governmentquota kuniamuthur    9814278310 9.3 hosteller
+17euec005 Karthi 21/05/2000	17euec005@skcet.ac.in o+ve  ece managementquota kovaipudur     8524381231 8.3 daysscholar
+17euit001 Kishor 17/08/1999  17euit001@skcet.ac.in b+ve  it  governmentquota kovaipudur     7923647174 9.0 daysscholar
+17euit002 Lalith 30/02/2000	17euit002@skcet.ac.in o+ve  it  managementquota kavundampalayam 8324923849 7.9 hosteller
+17euit003 Madhu  16/02/2000	17euit003@skcet.ac.in b+ve  it  governmentquota r.s.puram      9736463347 8.4 hosteller
+17euit004 Mohan  18/09/1999	17euit004@skcet.ac.in o-ve  it  managementquota kovaipudur     7346183468 8.1 daysscholar
+17euit005 Naveen 29/04/1998	17euit005@skcet.ac.in o+ve  it  managementquota r.s.puram      9375463745 8.5 daysscholar
+17eumc001 Nitish 13/09/2000	17eumc001@skcet.ac.in b+ve  mct managementquota r.s.puram      9346537443 9.5 daysscholar
+17eumc002 Pratik 10/09/1999	17eumc002@skcet.ac.in ab+ve mct managementquota kovaipudur     7495862529 7.8 hosteller
+17eumc003 Rahul  12/07/2000	17eumc003@skcet.ac.in b+ve  mct governmentquota r.s.puram      9749528824 8.9 hosteller
+17eumc004 Raj    08/09/1998	17eumc004@skcet.ac.in b+ve  mct managementquota kovaipudur     9735472348 8.4 daysscholar
+17eumc005 Raja   05/04/1999	17eumc005@skcet.ac.in ab+ve mct governmentquota r.s.puram      9347367463 8.1 hosteller
+
